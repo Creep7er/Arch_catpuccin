@@ -1,9 +1,8 @@
 ## Arch i3 catpuccin
+(screenshots)
 ## Hello!
 It is my first Arch ricing based on files from [this repositury](https://gitlab.com/prolinux410/owl_dots/). In my first Arch installation I was inspired by this custom, and I decided to create something for me.
-<br />
-(screenshots)
-<br />
+
 ## About the system
 |DISTRO|[ArchLinux](https://archlinux.org/)|
 | ------ | ------ |
@@ -19,6 +18,7 @@ It is my first Arch ricing based on files from [this repositury](https://gitlab.
 |FONT|[Hack](https://github.com/source-foundry/Hack)|
 |GEDIT|[Catppuccin-Macchiato](https://github.com/catppuccin/gedit)|
 |TELEGRAM|[Catppuccin-Macchiato](https://github.com/catppuccin/telegram)|
-<br />
+
+
 ## ORIGINAL VIDEO
 [![Author](https://gitlab.com/prolinux410/owl_dots/-/raw/main/.img/i3_catppuccin.jpg?ref_type=heads)](https://www.youtube.com/watch?v=1oUBR66UtH4)
