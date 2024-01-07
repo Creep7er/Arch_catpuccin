@@ -1,5 +1,16 @@
 ## Arch i3 catpuccin
-(screenshots)
+[(screenshots)]()]
+https://github.com/Creep7er/Arch_catpuccin/blob/main/img/buttons.png
+
+<div align="center">
+<img src="https://github.com/Creep7er/Arch_catpuccin/blob/main/img/Screen2.png" width="550">
+
+<img src="https://github.com/Creep7er/Arch_catpuccin/blob/main/img/Screen1.png" width="550">
+
+<img src="https://gitlab.com/prolinux410/owl_dots/-/raw/main/i3wm/i3_catppuccin/.img/photo_2023-07-03_01-27-44.jpg?ref_type=heads" width="550">
+</div>
+<br />
+
 ## Hello!
 It is my first Arch ricing based on files from [this repositury](https://gitlab.com/prolinux410/owl_dots/). In my first Arch installation I was inspired by this custom, and I decided to take something for my rice.
 
