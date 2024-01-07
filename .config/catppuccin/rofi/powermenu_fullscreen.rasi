@@ -1,0 +1,72 @@
+configuration {
+	drun-display-format: "{name}";
+	modi: "drun";
+}
+
+@import "~/.config/catppuccin/rofi/colors.rasi"
+
+* {
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+}
+
+window {
+	border: 400 600;
+	padding: 0 100;
+	fullscreen: true;
+}
+
+mainbox {
+	children: [inputbar,listview];
+}
+
+listview {
+	columns: 3;
+}
+
+inputbar {
+	children: [textbox];
+}
+
+textbox {
+	expand: false;
+	str: "See you later bro!";
+	text-color: @fg;
+	font: "Roboto 50";
+	horizontal-align: 0.5;
+}
+
+element {
+	border: 3;
+	border-radius: 90;
+	border-color: @fg;
+	margin: 30;
+}
+
+element-text {
+	padding: 15 10;
+	text-color: inherit;
+	expand: true;
+	horizontal-align: 0.5;
+	vertical-align: 0.5;
+	font: "Symbols Nerd Font 50";
+}
+
+element.normal.normal,
+element.alternate.normal,
+element.normal.urgent,
+element.alternate.urgent,
+element.normal.active,
+element.alternate.active {
+	text-color: @fg;
+	border-color: @fg;
+}
+
+element.selected.normal,
+element.selected.urgent,
+element.selected.active {
+	text-color: @fg;
+	border-color: @fg;
+	background-color: #cad3f576;
+}
