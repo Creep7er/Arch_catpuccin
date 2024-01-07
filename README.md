@@ -1,6 +1,4 @@
 ## Arch i3 catpuccin
-[(screenshots)]()]
-https://github.com/Creep7er/Arch_catpuccin/blob/main/img/buttons.png
 
 <div align="center">
 <img src="https://github.com/Creep7er/Arch_catpuccin/blob/main/img/Screen2.png" width="550">
