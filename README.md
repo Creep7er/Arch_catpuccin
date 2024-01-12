@@ -1,9 +1,9 @@
 ## My Linux Rices
 
 <div align="center">
-<img src="https://github.com/Creep7er/Arch_catpuccin/blob/main/img/Screen_1.png" width="550">
+<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/img/Screen_1.png" width="550">
 
-<img src="https://github.com/Creep7er/Arch_catpuccin/blob/main/img/Screen2.png" width="550">
+<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/img/Screen2.png" width="550">
 
 </div>
 <br />
