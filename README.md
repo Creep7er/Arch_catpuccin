@@ -12,3 +12,6 @@
 There is only one my ricing, but i will expand the collection in the near future. 
 
 ## Add information later
+efwefw
+fweefw
+wefwef
