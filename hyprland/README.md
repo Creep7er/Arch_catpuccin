@@ -1,9 +1,9 @@
 ## Arch i3 catpuccin
 
 <div align="center">
-<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/i3wm/img/Screen2.png" width="550">
+<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/hyprland/img/Screen2" width="550">
 
-<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/hyprland/img/Screen1.png" width="550">
+<img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/hyprland/img/Screen1" width="550">
 </div>
 <br />
 
