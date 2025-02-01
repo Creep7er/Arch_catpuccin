@@ -22,6 +22,7 @@
 
 #waybar {
 	font-family: 'Source Code Pro', sans-serif, 'Nerd Font';
+
 	font-size: 1.2em;
 	font-weight: 400;
   color: @base04;
