@@ -9,9 +9,7 @@
 <br />
 
 ## Hello!
-There is only one my ricing, but i will expand the collection in the near future. 
+There are my dot files for Linux rices. Welcome to my collection!
 
 ## Add information later
-efwefw
-fweefw
-wefwef
+The future is here
