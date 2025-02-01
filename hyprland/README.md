@@ -1,4 +1,4 @@
-## Arch i3 catpuccin
+## Arch hyprland rice
 
 <div align="center">
 <img src="https://github.com/Creep7er/Linux_dotfiles/blob/main/hyprland/img/Screen2" width="550">
